@@ -1,0 +1,21 @@
+
+
+{
+  "times": [
+    {
+      "name": "Украинское время:",
+      "timezone": "Europe/Kiev",
+      "id": 1
+    },
+    {
+      "name": "США Вашингтон время:",
+      "timezone": "America/New_York",
+      "id": 2
+    },
+    {
+      "name": "Гонконг время:",
+      "timezone": "Asia/Hong_Kong",
+      "id": 3
+    }
+  ]
+}
